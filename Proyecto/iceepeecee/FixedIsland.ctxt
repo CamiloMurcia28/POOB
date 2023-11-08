@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=FixedIsland
+comment0.text=\r\n\ Clase\ fixedIsland,\ una\ subclase\ de\ Island.\r\n\ Esta\ clase\ representa\ una\ isla\ fija\ en\ un\ entorno\ de\ juego.\r\n\ @author\ Camilo\ Murcia\ y\ Jeisson\ Casallas\r\n\ @version\ 5.0\ 10/31/23\r\n
+comment1.params=color\ polygon
+comment1.target=FixedIsland(java.lang.String,\ int[][])
+comment1.text=\r\n\ Constructor\ para\ objetos\ de\ la\ clase\ FixedIsland.\r\n\ \r\n\ @param\ color\ el\ valor\ del\ color\ del\ vuelo.\r\n\ @param\ polygon\ una\ matriz\ con\ las\ coordenadas\ de\ los\ v\u00E9rtices\ del\ pol\u00EDgono\ a\ dibujar.\r\n
+comment2.params=
+comment2.target=void\ makeInvisible()
+comment2.text=\r\n\ No\ permite\ que\ se\ haga\ invisible\ la\ isla\r\n\ \r\n
+comment3.params=
+comment3.target=int[][]\ getPolygon()
+comment4.params=
+comment4.target=void\ makeVisible()
+comment4.text=\r\n\ Metodo\ para\ hacer\ visible\ el\ vuelo\r\n
+numComments=5

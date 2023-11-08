@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ExpandingIsland
+comment0.text=\r\n\ Clase\ ExpandingIsland,\ una\ subclase\ de\ Island.\r\n\ Esta\ clase\ representa\ una\ isla\ fija\ en\ un\ entorno\ de\ juego.\r\n\ \r\n\ @author\ Camilo\ Murcia\ y\ Jeisson\ Casallas\r\n\ @version\ 5.0\ 10/31/23\r\n
+comment1.params=color\ polygon
+comment1.target=ExpandingIsland(java.lang.String,\ int[][])
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ fixedIsland\r\n\ @param\:\ String\ color,\ el\ valor\ del\ color\ del\ vuelo\r\n\ @param\ int[]\ polygon,\ Matriz\ con\ las\ coordenadas\ de\ los\ vertices\ del\ poligono\ a\ dibujar\r\n
+comment2.params=
+comment2.target=void\ expanding()
+comment3.params=
+comment3.target=void\ makeVisible()
+comment3.text=\r\n\ Hace\ visible\ la\ isla\ y\ la\ expande\ en\ tama\u00F1o.\r\n\ \r\n
+comment4.params=
+comment4.target=int[][]\ getPolygon()
+comment5.params=
+comment5.target=void\ makeInvisible()
+comment5.text=\r\n\ Metodo\ para\ hacer\ invisible\ el\ vuelo\r\n
+numComments=6
