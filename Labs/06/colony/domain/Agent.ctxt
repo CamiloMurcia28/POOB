@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Agent
+comment0.text=\r\n\ The\ Abstract\ class\ Agent\r\n\r\n\ @author\ \ Jeisson\ Casallas\ &\ Camilo\ Murcia\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Agent()
+comment1.text=\r\n\ Create\ a\ new\ agent\r\n
+comment2.params=
+comment2.target=void\ turn()
+comment2.text=\r\n\ The\ agent\ turns\ one\ life\ span\ old\r\n
+comment3.params=
+comment3.target=void\ move()
+comment3.text=\ \r\n\ The\ agent\ moves\r\n
+comment4.params=
+comment4.target=int\ getAge()
+comment4.text=\r\n\ Returns\ the\ age\r\n\ \r\n\ @return\ un\ entero\ que\ representa\ la\ edad\r\n
+comment5.params=
+comment5.target=boolean\ isAlive()
+comment5.text=\r\n\ Returns\ if\ alive\r\n\ \r\n\ @return\ true,\ if\ ALIVE;\ false,\ otherwise\r\n
+numComments=6

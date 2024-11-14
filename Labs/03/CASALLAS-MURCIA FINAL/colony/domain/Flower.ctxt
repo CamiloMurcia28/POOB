@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Flower
+comment0.text=\r\n\ The\ Flower\ class\ from\ entity\r\n\r\n\ @author\ \ Jeisson\ Casallas\ &\ Camilo\ Murcia\r\n\ @version\ 1.0\r\n
+comment1.params=colony\ row\ column
+comment1.target=Flower(Colony,\ int,\ int)
+comment1.text=\r\n\ Constructor\ de\ la\ entidad\ flower.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Realiza\ la\ acci\u00F3n\ de\ abrir\ y\ cerrar\ de\ la\ flor\r\n
+comment3.params=
+comment3.target=int\ shape()
+comment3.text=\r\n\ Le\ da\ la\ forma\ a\ la\ flor.\r\n\ \r\n\ @return\ retorna\ la\ figura\ que\ va\ a\ representar\ la\ flor.\r\n
+comment4.params=
+comment4.target=java.awt.Color\ getColor()
+comment4.text=\r\n\ Returns\ the\ color\r\n\ \r\n\ @return\ el\ color\ de\ la\ flor\ \r\n
+comment5.params=
+comment5.target=boolean\ isOpen()
+comment5.text=\r\n\ Verifica\ si\ la\ flor\ esta\ abierta\ o\ cerrada\r\n\ \r\n\ @return\ retorna\ un\ valor\ booleano\ segun\ el\ estado\ de\ la\ flor.\r\n
+numComments=6

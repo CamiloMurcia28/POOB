@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ColonyException
+comment0.text=\r\n\ Exception\ class\ for\ colony\ called\ ColonyException\ here.\r\n\r\n\ @author\ Jeisson\ Casallas\ &\ Camilo\ Murcia\r\n\ @version\ 1.0\r\n
+comment1.params=message
+comment1.target=ColonyException(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ColonyException\r\n\ @param\:\ message\ \r\n
+numComments=2

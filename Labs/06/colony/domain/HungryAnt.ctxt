@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=HungryAnt
+comment0.text=\r\n\ The\ HungryAnt\ class\ from\ Ant\r\n\r\n\ @author\ \ Jeisson\ Casallas\ &\ Camilo\ Murcia\r\n\ @version\ 1.0\r\n
+comment1.params=colony\ row\ column
+comment1.target=HungryAnt(Colony,\ int,\ int)
+comment1.text=Create\ a\ new\ Ant\ (<b>row,column</b>)\ in\ the\ colony\ <b>colony</b>.\r\n\ Every\ new\ Ant\ is\ going\ to\ be\ alive\ in\ the\ following\ state.\r\n\ @param\ colony\ \r\n\ @param\ row\ \r\n\ @param\ column\ \r\n
+comment2.params=
+comment2.target=void\ hungryMove()
+comment2.text=\r\n\ Genera\ el\ movimiento\ que\ va\ a\ realizar\ la\ hormiga\ hacia\ la\ comida.\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Genera\ la\ acci\u00F3n\ que\ va\ a\ realizar\ la\ hormiga.\r\n
+comment4.params=
+comment4.target=boolean\ hasEaten()
+comment4.text=\r\n\ Verifica\ si\ la\ hormiga\ ya\ comio\ o\ no\r\n\ \r\n\ @return\ retorna\ un\ valor\ boolean\ segun\ si\ ya\ comio\ la\ hormiga.\r\n
+numComments=5

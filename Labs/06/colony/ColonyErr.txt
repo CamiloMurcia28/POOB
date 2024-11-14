@@ -1,0 +1,8 @@
+Error en la línea 7: Las coordenadas deben ser enteros.
+Error en la línea 7: Las coordenadas deben ser enteros.
+Error en la línea 17: Solo se deben ingresar 3 parametros(Entidad,posX,PosY).
+Error en la línea 15: Coordenadas fuera de rango.
+Error en la línea 16: Tipo de entidad no reconocido.
+Error en la línea 17: Coordenadas fuera de rango.
+Error en la línea 17: Solo se deben ingresar 3 parámetros (Entidad, posX, PosY).
+Error en la línea 17: Solo se deben ingresar 3 parámetros (Entidad, posX, PosY).

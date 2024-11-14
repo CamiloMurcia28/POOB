@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Poison
+comment0.text=\r\n\ The\ Poison\ Class\ from\ Domain.\r\n\r\n\ @author\ \ Jeisson\ Casallas\ &\ Camilo\ Murcia\r\n\ @version\ 1.0\r\n
+comment1.params=colony\ row\ column
+comment1.target=Poison(Colony,\ int,\ int)
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ Poison\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Realiza\ una\ accci\u00F3n\r\n
+comment3.params=
+comment3.target=int\ shape()
+comment3.text=\r\n\ Le\ da\ la\ forma\ al\ veneno\r\n\ \r\n\ @return\ entero\ el\ cual\ identifica\ a\ la\ forma\r\n
+comment4.params=
+comment4.target=java.awt.Color\ getColor()
+comment4.text=\r\n\ retorna\ el\ color\ del\ veneno.\r\n\ \r\n\ @return\ \ retorna\ el\ color\ del\ cual\ va\ a\ ser\ el\ veneno.\r\n
+numComments=5

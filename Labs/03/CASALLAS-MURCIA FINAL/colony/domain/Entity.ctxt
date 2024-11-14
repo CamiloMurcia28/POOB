@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Entity
+comment0.text=\r\n\ The\ entity\ class\ from\ colony\r\n\r\n\ @author\ \ Jeisson\ Casallas\ &\ Camilo\ Murcia\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ realiza\ una\ acci\u00F3n\ la\ entidad.\r\n
+comment2.params=
+comment2.target=int\ shape()
+comment2.text=\r\n\ le\ da\ una\ forma\ predeterminada\ a\ la\ entidad\r\n\ \r\n\ @return\ valor\ entero\ que\ representa\ la\ forma.\r\n
+comment3.params=
+comment3.target=java.awt.Color\ getColor()
+comment3.text=\r\n\ obtiene\ el\ color\ predeterminado\ de\ la\ entidad\r\n\ \r\n\ @return\ retorna\ el\ color\ predeterminado.\r\n
+comment4.params=
+comment4.target=boolean\ is()
+comment4.text=\r\n\ retorna\ un\ valor\ booleano\ con\ respecto\ a\ la\ entidad\r\n\ \r\n\ @return\ retorna\ true\r\n
+numComments=5

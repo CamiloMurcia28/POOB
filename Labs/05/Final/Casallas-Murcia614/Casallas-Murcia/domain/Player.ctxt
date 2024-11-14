@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ La\ clase\ Player\ representa\ a\ un\ jugador\ en\ el\ juego\ Vintage\ Jewel.\r\n
+comment1.params=numeroJugador
+comment1.target=Player(byte)
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ Player.\r\n\r\n\ @param\ numeroJugador\ N\u00FAmero\ \u00FAnico\ que\ identifica\ al\ jugador.\r\n
+comment2.params=pointsWon
+comment2.target=void\ addPoints(int)
+comment2.text=\r\n\ Agrega\ puntos\ al\ total\ de\ puntos\ del\ jugador.\r\n\r\n\ @param\ pointsWon\ Puntos\ ganados\ que\ se\ agregar\u00E1n\ al\ total\ del\ jugador.\r\n
+comment3.params=
+comment3.target=int\ getPoints()
+comment3.text=\r\n\ Obtiene\ la\ cantidad\ actual\ de\ puntos\ del\ jugador.\r\n\r\n\ @return\ La\ cantidad\ actual\ de\ puntos\ del\ jugador.\r\n
+comment4.params=
+comment4.target=void\ setScore()
+numComments=5

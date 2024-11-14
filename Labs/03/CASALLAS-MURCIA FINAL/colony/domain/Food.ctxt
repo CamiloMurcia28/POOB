@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Food
+comment0.text=\r\n\ The\ Food\ class\ from\ entity\r\n\r\n\ @author\ \ Jeisson\ Casallas\ &\ Camilo\ Murcia\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Realiza\ una\ acci\u00F3n\ de\ la\ comida.\r\n
+numComments=2
